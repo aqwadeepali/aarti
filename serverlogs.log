@@ -1,0 +1,2197 @@
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/steel_server.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 12:14:23] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 12:14:57] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 12:16:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 12:16:40] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 12:17:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 12:17:33] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 12:17:42] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 12:17:51] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 12:18:00] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 13:08:04] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 13:35:28] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 13:47:54] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 13:50:00] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 13:51:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 13:51:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 13:52:55] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 13:52:57] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 13:54:46] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 13:56:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 13:56:20] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 14:13:28] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 14:14:46] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 14:16:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 14:18:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 14:19:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 14:22:59] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 15:56:08] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 15:56:31] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 15:56:49] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 15:56:55] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 15:58:57] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 15:59:09] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 15:59:29] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [22/Aug/2019 16:00:42] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 16:11:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [22/Aug/2019 16:11:46] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 14:43:48] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 14:44:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 14:44:38] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 14:44:45] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 14:47:36] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 14:47:58] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 14:48:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 14:49:23] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 14:59:21] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:00:01] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:00:57] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:01:45] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:02:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:02:47] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:07:40] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+127.0.0.1 - - [23/Aug/2019 15:10:02] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:15:33] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:22:17] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:28:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:28:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:29:06] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/managers/data.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:31:33] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/managers/data.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/managers/data.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:37:43] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:42:08] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:42:25] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 15:44:43] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:56:52] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 15:59:49] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 16:00:19] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 16:38:49] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 16:39:07] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 16:39:14] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 16:39:30] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 16:39:48] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:08:41] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:09:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:10:28] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:11:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:33:12] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:33:28] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:36:09] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 17:38:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 17:38:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:38:37] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:40:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:47:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 17:48:07] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:05:46] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:24:11] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:25:04] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/managers/compression.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:27:10] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/managers/compression.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:27:45] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:28:29] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:30:02] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:30:20] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/managers/compression.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:30:43] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/managers/compression.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/managers/compression.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:38:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 18:55:10] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 18:56:06] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 18:57:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 18:59:47] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:10:03] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:33:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:33:52] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:33:54] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:36:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:39:10] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 19:41:14] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:42:32] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:44:50] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:46:15] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:46:25] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:46:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:49:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 19:50:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:00:39] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:17:35] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:17:58] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 20:22:31] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:23:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:23:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:35:40] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:36:03] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:36:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:36:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 20:40:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:41:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:41:29] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:48:59] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 20:49:13] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:49:46] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:50:47] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 20:51:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 20:51:42] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 20:52:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:52:45] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:53:47] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:53:59] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:54:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:54:32] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:54:44] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:54:49] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:55:08] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 20:55:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 20:55:33] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:55:39] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 20:55:47] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:56:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:56:07] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 20:58:40] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [23/Aug/2019 21:08:22] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 22:11:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [23/Aug/2019 22:31:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [24/Aug/2019 18:05:32] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [24/Aug/2019 18:08:22] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [24/Aug/2019 18:11:56] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [24/Aug/2019 21:13:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [24/Aug/2019 21:16:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 10:30:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:30:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 10:30:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:31:34] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:32:14] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:33:10] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 10:33:22] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 10:39:25] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:39:31] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:39:33] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:41:34] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:41:37] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:42:28] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:42:31] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:42:33] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:42:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:42:44] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:42:56] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:42:57] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:43:32] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:43:34] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:43:39] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:44:06] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:44:10] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:44:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:44:25] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:44:28] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:45:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:45:39] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 10:46:03] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:07:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:07:58] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:08:39] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:08:54] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:11:15] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:11:35] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:11:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:11:58] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:12:30] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:12:39] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:14:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:14:48] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:15:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:15:42] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:17:06] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:21:22] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:39:51] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:40:20] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:40:25] "POST /api_steel/services/downloadSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:41:01] "POST /api_steel/services/downloadSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:41:23] "POST /api_steel/services/downloadSummary HTTP/1.1" 500 -
+127.0.0.1 - - [26/Aug/2019 11:41:48] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:41:49] "POST /api_steel/services/downloadSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:42:09] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:42:12] "POST /api_steel/services/downloadSummary HTTP/1.1" 500 -
+127.0.0.1 - - [26/Aug/2019 11:42:38] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:42:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 11:42:52] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:42:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 11:42:55] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:14:55] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:15:25] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:15:28] "POST /api_steel/services/downloadSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:16:08] "POST /api_steel/services/downloadSummary HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:16:22] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:17:25] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:18:07] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:19:56] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:21:22] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:21:26] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:22:23] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:22:52] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:24:19] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:26:46] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:27:10] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:27:57] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:32:43] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:45:10] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:50:20] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:50:20] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:50:39] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:50:40] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:51:05] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:51:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:51:18] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:51:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:51:45] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:51:45] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:52:32] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:52:32] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:52:35] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+sendfresponse Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/aarti_steel/classes/services.py", line 62, in sendfresponse
+    file = open(fPath, 'rb').read()
+FileNotFoundError: [Errno 2] No such file or directory: '/DeepaliData/Workspace/aarti_steel//downloads//DeepaliData/Workspace/aarti_steel//downloads/demo.xlsx'
+[Errno 2] No such file or directory: '/DeepaliData/Workspace/aarti_steel//downloads//DeepaliData/Workspace/aarti_steel//downloads/demo.xlsx'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/aarti_steel/classes/services.py", line 62, in sendfresponse
+    file = open(fPath, 'rb').read()
+FileNotFoundError: [Errno 2] No such file or directory: '/DeepaliData/Workspace/aarti_steel//downloads//DeepaliData/Workspace/aarti_steel//downloads/demo.xlsx'
+127.0.0.1 - - [26/Aug/2019 12:52:35] "GET /api_steel/services/sendfresponse?name=%2FDeepaliData%2FWorkspace%2Faarti_steel%2F%2Fdownloads%2Fdemo.xlsx HTTP/1.1" 500 -
+127.0.0.1 - - [26/Aug/2019 12:52:35] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:52:35] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:52:35] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:52:35] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:52:35] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:55:34] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+sendfresponse Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/aarti_steel/classes/services.py", line 62, in sendfresponse
+    file = open(fPath, 'rb').read()
+FileNotFoundError: [Errno 2] No such file or directory: '/DeepaliData/Workspace/aarti_steel//downloads//DeepaliData/Workspace/aarti_steel//downloads/demo.xlsx'
+[Errno 2] No such file or directory: '/DeepaliData/Workspace/aarti_steel//downloads//DeepaliData/Workspace/aarti_steel//downloads/demo.xlsx'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/aarti_steel/classes/services.py", line 62, in sendfresponse
+    file = open(fPath, 'rb').read()
+FileNotFoundError: [Errno 2] No such file or directory: '/DeepaliData/Workspace/aarti_steel//downloads//DeepaliData/Workspace/aarti_steel//downloads/demo.xlsx'
+127.0.0.1 - - [26/Aug/2019 12:55:34] "GET /api_steel/services/sendfresponse?name=%2FDeepaliData%2FWorkspace%2Faarti_steel%2F%2Fdownloads%2Fdemo.xlsx HTTP/1.1" 500 -
+127.0.0.1 - - [26/Aug/2019 12:55:34] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:55:34] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:55:34] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:55:34] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:55:34] "GET /api_steel/services/sendfresponse?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:57:56] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 12:59:07] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:59:07] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:59:11] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:59:13] "GET /api_steel/services/sendfresponse?name=demo.xlsx HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:59:47] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:59:47] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:59:50] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 12:59:51] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 13:05:25] "POST /api_steel/services/getCustomer HTTP/1.1" 500 -
+127.0.0.1 - - [26/Aug/2019 13:06:44] "POST /api_steel/services/getCustomer HTTP/1.1" 500 -
+127.0.0.1 - - [26/Aug/2019 13:26:51] "POST /api_steel/services/getCustomer HTTP/1.1" 500 -
+127.0.0.1 - - [26/Aug/2019 13:27:47] "POST /api_steel/services/getCustomer HTTP/1.1" 500 -
+127.0.0.1 - - [26/Aug/2019 13:56:16] "POST /api_steel/services/getCustomer HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 13:56:32] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 13:56:32] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:00:34] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:00:34] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:01:36] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:01:36] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:01:47] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:01:47] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:01:52] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:01:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:02:09] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:02:09] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:12:37] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:12:37] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:12:52] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:12:52] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:16:04] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:16:54] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:21:42] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:22:15] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:23:46] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:24:18] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:26:43] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:29:37] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:30:16] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:31:53] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:32:43] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:33:27] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:34:22] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:35:01] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:35:14] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:35:26] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:35:48] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:37:26] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [26/Aug/2019 14:40:30] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [26/Aug/2019 14:40:30] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [27/Aug/2019 13:46:41] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [27/Aug/2019 13:46:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Aug/2019 13:47:20] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [27/Aug/2019 13:47:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [03/Sep/2019 11:51:15] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:51:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:58:27] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:58:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:58:55] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:58:55] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:59:06] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:59:06] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:59:24] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:59:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:59:30] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 11:59:30] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:01] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:11] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:23] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:41] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:42] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:50] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:50] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:54] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:00:54] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:03:35] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:03:36] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:07:06] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:07:06] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:07:35] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:07:35] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:07:41] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:07:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:07:55] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:07:55] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:09:37] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:09:37] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:19:14] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:19:15] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:19:30] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:19:30] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:21:56] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:21:57] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:22:44] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:22:44] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:22:59] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:22:59] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:23:29] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:23:29] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:23:54] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:23:54] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:24:05] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:24:06] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:24:53] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:24:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:26:20] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:26:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:26:54] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:26:54] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:32:21] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:32:21] "POST /api_steel/services/getConfig HTTP/1.1" 404 -
+127.0.0.1 - - [03/Sep/2019 12:32:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:32:26] "POST /api_steel/services/getConfig HTTP/1.1" 404 -
+127.0.0.1 - - [03/Sep/2019 12:32:26] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:32:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [03/Sep/2019 12:40:40] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:40:40] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:40:40] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [03/Sep/2019 12:41:05] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:41:05] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:41:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [03/Sep/2019 12:43:55] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:43:55] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:43:55] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:46:23] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:46:23] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 12:46:23] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [03/Sep/2019 13:03:21] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 13:03:21] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+127.0.0.1 - - [03/Sep/2019 13:03:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [03/Sep/2019 13:03:41] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 13:03:41] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+127.0.0.1 - - [03/Sep/2019 13:03:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [03/Sep/2019 13:04:21] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 13:04:21] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 13:04:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [03/Sep/2019 13:31:29] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 13:31:29] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [03/Sep/2019 13:31:29] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [04/Sep/2019 14:18:01] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:18:01] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:18:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [04/Sep/2019 14:22:12] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:22:12] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:22:13] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:32:58] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:32:58] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:32:58] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:36:35] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:36:35] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:36:35] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:36:54] "POST /api_steel/services/getCustomer HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:36:54] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:36:54] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:37:42] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:37:42] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:38:47] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:38:47] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:44:16] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:44:19] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:44:25] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:44:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:44:28] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:44:28] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:44:29] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:44:31] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:45:03] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:45:03] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:45:07] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:45:08] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:45:30] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:45:30] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [04/Sep/2019 14:55:40] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:55:40] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:55:53] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 14:55:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [04/Sep/2019 15:02:31] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 15:02:31] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 15:02:35] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 15:03:11] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 15:03:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 15:03:19] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 15:03:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 15:03:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2019 15:06:26] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [05/Sep/2019 11:31:59] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:31:59] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:15] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:15] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:16] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:16] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:17] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:18] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:18] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [05/Sep/2019 11:32:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:21:16] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/managers/data.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:22:03] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+127.0.0.1 - - [16/Dec/2019 12:22:04] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+127.0.0.1 - - [16/Dec/2019 12:22:25] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:23:17] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:31:32] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:33:40] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:34:07] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:35:45] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:36:37] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:37:17] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:38:01] "POST /api_steel/services/getConfig HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:38:20] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:42:09] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:42:17] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:42:24] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:45:28] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:47:06] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:47:06] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+127.0.0.1 - - [16/Dec/2019 12:47:33] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:47:33] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+127.0.0.1 - - [16/Dec/2019 12:47:51] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:47:51] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+127.0.0.1 - - [16/Dec/2019 12:48:08] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:48:08] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:48:19] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:48:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:56:47] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:56:48] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:56:51] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:57:00] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:57:03] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:57:04] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 12:57:04] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 12:59:57] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 13:00:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 13:01:10] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 13:01:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 13:01:27] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 13:01:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 13:01:32] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 13:01:32] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 14:22:23] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:22:23] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:23:27] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:23:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 14:24:53] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:24:53] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 14:25:51] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:25:51] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 14:30:13] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:30:13] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 14:33:50] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:33:51] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:34:24] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:34:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 14:41:33] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:41:33] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:41:45] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:41:46] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:42:20] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:42:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 14:43:20] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:43:20] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:43:20] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:43:20] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:44:34] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:44:34] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:46:34] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:46:34] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 14:46:56] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:46:56] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [16/Dec/2019 14:47:26] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:47:26] "GET /api_steel/services/sendfresponse?name=Result.xlsx HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:47:51] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [16/Dec/2019 14:47:51] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 13:29:40] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:29:40] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:31:50] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:32:37] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:32:52] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:32:52] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 13:33:45] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:33:46] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:33:47] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:33:47] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:33:59] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:34:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:34:30] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:34:30] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:58:35] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:58:35] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:59:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 13:59:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:04] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:13] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:13] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:13] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:13] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:14] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:15] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:15] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:15] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:15] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:19] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:20] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:20] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:20] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:20] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:00:23] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:03] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:03] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:15] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:15] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:36] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:36] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:37] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:38] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:56] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:03:56] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:07] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:07] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:11] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:28] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:28] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:35] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:35] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:45] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:45] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:51] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:04:51] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:01] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:17] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:24] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:32] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:32] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:39] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:39] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:05:48] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:01] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:06] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:06] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:14] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:14] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:23] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:23] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:31] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:06:31] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:07:14] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:07:14] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:07:19] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:13:30] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:16:19] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:16:19] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 14:18:20] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:18:20] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 14:20:34] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:20:34] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 14:21:55] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:21:56] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 14:23:58] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:23:58] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 14:24:12] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:24:12] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 14:27:33] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:27:33] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 14:28:22] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:28:22] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:28:31] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:28:31] "GET /api_steel/services/sendfresponse?name=Result.xlsx HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 14:49:01] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:49:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 14:51:41] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:51:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:52:32] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 14:52:32] "GET /api_steel/services/sendfresponse?name=Result.xlsx HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 15:32:52] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 15:32:52] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 15:33:01] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 15:33:02] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 15:33:05] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 15:33:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 15:33:15] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 15:33:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 16:36:20] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 16:36:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 16:36:28] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 16:36:29] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 16:39:35] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 16:39:35] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [17/Dec/2019 19:53:01] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [17/Dec/2019 19:53:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [27/Dec/2019 16:31:55] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:31:56] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:34:17] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:34:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:34:19] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:34:19] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:35:36] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:35:36] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:35:49] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:35:49] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:36:08] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:36:08] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:36:16] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:36:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:37:08] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:37:08] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:37:12] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 16:37:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [27/Dec/2019 18:13:27] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:13:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:17:36] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:17:36] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+127.0.0.1 - - [27/Dec/2019 18:17:40] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:17:40] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+127.0.0.1 - - [27/Dec/2019 18:21:11] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:21:11] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:23:38] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:23:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:23:45] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:25:08] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:25:08] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:25:11] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:25:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:27:36] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:27:39] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:31:06] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:31:09] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [27/Dec/2019 18:39:18] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:39:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:39:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:39:23] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 18:39:26] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 22:10:48] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:10:48] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:10:55] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:33:59] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:33:59] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/settings.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 22:44:08] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:44:08] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:44:14] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+127.0.0.1 - - [08/Jan/2020 22:44:37] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:44:37] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:44:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:44:54] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:49:02] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:49:03] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 22:49:05] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 23:20:13] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 23:27:19] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 23:27:19] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 23:27:26] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 23:27:31] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+127.0.0.1 - - [08/Jan/2020 23:27:47] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 23:27:48] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 23:27:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 23:31:38] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 23:31:45] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 23:31:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [08/Jan/2020 23:31:56] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 23:32:29] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 23:32:53] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 23:34:01] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 23:35:18] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [08/Jan/2020 23:35:58] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [09/Jan/2020 18:59:36] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 18:59:36] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 18:59:41] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:00:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [09/Jan/2020 19:01:03] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:01:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [09/Jan/2020 19:01:31] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [09/Jan/2020 19:02:58] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [09/Jan/2020 19:05:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [09/Jan/2020 19:05:58] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [09/Jan/2020 19:32:10] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:32:17] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:38:03] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:38:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:38:24] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:38:24] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:38:27] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:38:32] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:43:18] "POST /api_steel/services/downloadSummary HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:43:18] "GET /api_steel/services/sendfresponse?name=Result.xlsx HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:44:30] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [09/Jan/2020 19:44:30] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:9000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [14/Jan/2020 19:42:07] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:42:07] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:42:13] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:42:59] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:43:10] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:43:21] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:44:00] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:44:06] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [14/Jan/2020 19:44:42] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:44:42] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:44:44] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:44:49] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:48:16] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:48:29] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 19:48:35] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [14/Jan/2020 19:59:48] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [14/Jan/2020 20:04:56] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 20:04:56] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 20:05:12] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 20:05:17] "POST /api_steel/services/getSummary HTTP/1.1" 500 -
+127.0.0.1 - - [14/Jan/2020 20:08:10] "POST /api_steel/services/getConfig HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 20:08:10] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [14/Jan/2020 20:16:56] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+127.0.0.1 - - [14/Jan/2020 20:16:59] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [14/Jan/2020 20:18:00] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
+127.0.0.1 - - [14/Jan/2020 20:20:29] "POST /api_steel/services/getSummary HTTP/1.1" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/Workspace/aarti_steel/classes/services.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 347-200-188
